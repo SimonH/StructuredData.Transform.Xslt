@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredData.Transform.Xslt", "StructuredData.Transform.Xslt\StructuredData.Transform.Xslt.csproj", "{B83CA67D-D714-4A60-B846-3E9BDBEE6221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredData.Tranform.Xslt.Tests", "StructuredData.Tranform.Xslt.Tests\StructuredData.Tranform.Xslt.Tests.csproj", "{8291FDBE-4871-465B-A44F-FFA315F1BBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83CA67D-D714-4A60-B846-3E9BDBEE6221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83CA67D-D714-4A60-B846-3E9BDBEE6221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83CA67D-D714-4A60-B846-3E9BDBEE6221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83CA67D-D714-4A60-B846-3E9BDBEE6221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8291FDBE-4871-465B-A44F-FFA315F1BBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8291FDBE-4871-465B-A44F-FFA315F1BBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8291FDBE-4871-465B-A44F-FFA315F1BBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8291FDBE-4871-465B-A44F-FFA315F1BBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
